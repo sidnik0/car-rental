@@ -7,7 +7,6 @@
 - Docker 19+ (https://www.docker.com/)
 - Docker Compose (https://docs.docker.com/compose/)
 - PostgreSQL 14 (https://www.postgresql.org/)
-- Keycloak 15 (https://www.keycloak.org/)
 
 
 ## Installation
